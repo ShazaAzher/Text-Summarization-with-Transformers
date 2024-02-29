@@ -1,6 +1,9 @@
-Hello! This is my implementation of doing text summarization of BBC news dataset using transformers from Hugging face library. 
-I am fine-tuning BART for text summarization using Pytorch.
-Next, i am monitoring training progress using weights and biases library.
-I am also evaluating the model using ROGUE library. 
-I completed this project on the Educative platform and i have attached my certificate below. 
-![RgxzXQF0Ovv62jM4JuWrNyWXV1ZOU6](https://github.com/ShazaAzher/Text-Summarization-with-Transformers/assets/58635784/a53c2b4e-fe8c-46e5-a9fd-50c6dd1bd6ab)
+Hello! This is my implementation of text summarization of news articles using BART from Facebook, imported from the Hugging Face library. 
+Next, I am monitoring training progress using the weights and biases library.
+I am also evaluating the model using the ROGUE library. 
+
+I’ll use the Hugging Face Hub API for access to the models, the PyTorch library for implementing the deep learning logic, the Weights & Biases library to visualize training, and the Evaluate library to evaluate the model.
+
+Technologies uses:
+Python, Pytorch and Hugging face library.
+If there is any feedback, please let me know!
